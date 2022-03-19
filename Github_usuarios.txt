@@ -1,9 +1,0 @@
-LINK GITHUB : https://github.com/ValRiver/Casas_MercadoLibre.git
-
-ESTUDIANTES:
--RIVERA AQUINO,VALERIA
--MORAN BAYGORREA,ALEXANDRA
-
-USUARIOS: 
--ValRiver
--AleMB13
